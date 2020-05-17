@@ -11,7 +11,7 @@ What is working? Almost all exept Wifi(Need to replace)
 This is without wifi Patches.
 
 
-Touchpad is working in Interrupt mode.
+Touchpad is working in Interrupt mode. After update need to build kext cache to work again(No wonder it won't work during installation, use usb mouse or in bios set to basic mode and use ps2touchpad kext from voodoops2)
 
 
 Card reader is also working.

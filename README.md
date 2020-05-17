@@ -3,7 +3,7 @@ Opencore 5.8 build efi
 Bios Version - Latest 2.1
 
 
-Only Download EFI hdmi other efi hdmi not working and will panic kernel, warning!!!
+Only Download EFI hdmi other efi hdmi not working and will panic kernel, warning!!!, Deleted other EFI so it doesn't matter.
 
 What is working? Almost all exept Wifi(Need to replace)
 

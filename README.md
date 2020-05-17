@@ -1,4 +1,4 @@
-# Acer-A515-51 (No Discreet graphics version)
+# Acer-A515-51 (No Discrete graphics version)
 Opencore 5.8 build efi
 Bios Version - Latest 2.1
 

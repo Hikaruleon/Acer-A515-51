@@ -1,5 +1,5 @@
 # Acer-A515-51
-Opencore 5.8 build refi
+Opencore 5.8 build efi
 Bios Version - Latest 2.1
 
 

@@ -1,6 +1,6 @@
 # Acer-A515-51 (No Discrete graphics version)
 Opencore 5.8 build efi
-Bios Version - Latest 2.1
+Bios Version - Latest 2.02
 
 i5 8250U, HD620, 1 USB 3, 2 USB 2, 1 USB C, 1 HDMI, 1 Gigabit ethernet, 30 pin display port, ELAN0501 pins 0x1b gpio, PS2 Keyboard, 1 x Sata, 1 x NVME(USE NVME kext and change appropriate config), 720p Webcam, Mic Array, 3.5mm Jack, 48WH battery.
 
